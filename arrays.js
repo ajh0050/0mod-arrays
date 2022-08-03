@@ -14,3 +14,8 @@ yesNo.shift();
 console.log(smallGroup);
 console.log(birthYears);
 console.log(yesNo);
+
+
+//I will write "adam was born in 95 is true"
+
+console.log(`${smallGroup[0]} was born in ${birthYears[1]} is ${yesNo[1]}`)
